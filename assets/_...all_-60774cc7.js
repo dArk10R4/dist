@@ -1,0 +1,1 @@
+import{_,o as e,c as a}from"./index-a881bc94.js";const t={};function o(s,c,n,r,l,p){return e(),a("main",null," Burası 404 ")}const u=_(t,[["render",o],["__scopeId","data-v-e7b6a691"]]);export{u as default};
